@@ -5,4 +5,8 @@
 6666666666
 7777777777
 8888888888
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> fen1
